@@ -1,0 +1,58 @@
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.navbar-brand {
+    font-family: Revalia, sans-serif;
+    color: #34547A!important;
+    font-size: 48px;
+}
+
+.nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.custom-main-title {
+    font-size: 48px;
+    font-weight: 500;
+}
+
+.btn {
+    border-radius: 0;
+    padding: 15px 25px;
+    letter-spacing: 2px;
+}
+
+.custom-text-gray {
+    color: #727272!important;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.custom-bg-dark-blue {
+    background-color: #34547A;
+}
+
+.custom-bg-light {
+    background-color: #EEEFF1;
+}
+
+.progress {
+    height: 4px;
+}
+
+.custom-works-title {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.custom-footer-title {
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.custom-footer-subtitle {
+    font-size: 13px;
+}
